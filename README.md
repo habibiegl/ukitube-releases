@@ -275,6 +275,29 @@ Kedua API key **gratis**. Panduan lengkap tersedia di dalam aplikasi.
 
 ---
 
+## Minat?
+
+### Harga
+
+| Paket | Harga |
+|---|---|
+| **Bulanan** | Rp 80.000 |
+| **Lifetime** (Selamanya) | Rp 250.000 |
+
+### Cara Pembayaran
+
+Transfer ke salah satu rekening berikut:
+
+| Metode | Atas Nama | Nomor Rekening |
+|---|---|---|
+| **BNI** | RIZKY WILDAN HABIBIE | 1831249692 |
+| **DANA** | RIZKY WILDAN HABIBIE | 081252225088 |
+| **SEABANK** | RIZKY WILDAN HABIBIE | 9017 3351 3323 |
+
+Setelah transfer, kirim bukti pembayaran ke **WhatsApp 081252225088** atau **Telegram** untuk mendapatkan kode lisensi.
+
+---
+
 ## Hubungi
 
 Telegram: **[@ukilats](https://t.me/ukilats)**
