@@ -1,5 +1,8 @@
 ﻿# UkiTube — YouTube Research & Content Strategy Toolkit
 
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/Ukitube.PNG" alt="UkiTube Dashboard" width="100%">
+
+
 > Senjata rahasia YouTuber Indonesia untuk meledakkan views, subscriber, dan dominasi niche.
 
 ---
@@ -30,6 +33,9 @@ YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **da
 - Import dari file `.txt`
 - Sorting per kolom (klik header)
 
+
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/Ukitube 1.PNG" alt="Dashboard Multi-Channel" width="100%">
+
 **Gunanya:** Monitor kompetitor, track progress channel sendiri, temukan channel yang patut ditiru.
 
 ---
@@ -53,6 +59,9 @@ YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **da
 - Historical tracking 7 hari
 - Filter Shorts (hanya video long-form)
 
+
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/Ukitube 2.PNG" alt="Radar Trending" width="100%">
+
 **Gunanya:** Temukan niche yang sedang naik SEBELUM kompetitor tahu. Channel baru yang meledak = peluang emas untuk ditiru.
 
 ---
@@ -73,6 +82,9 @@ YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **da
 - **AI Idea per keyword** — judul, thumbnail hook, 5 detik pertama
 - Filter by difficulty, sort by volume/competition/score/trend
 - Export CSV
+
+
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/Ukitube 3.PNG" alt="Keyword Radar" width="100%">
 
 **Gunanya:** Riset keyword yang grounded in data real, bukan tebakan. Tahu persis keyword mana yang worth dibidik.
 
@@ -110,6 +122,9 @@ YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **da
 - Pagination "Cari Lebih Dalam"
 - Export CSV (14 kolom)
 
+
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/Ukitube 4.PNG" alt="Video Scout" width="100%">
+
 **Gunanya:** Temukan celah pasar. Video dari channel kecil yang meledak = pola yang bisa ditiru.
 
 ---
@@ -141,6 +156,9 @@ YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **da
   - Copy tags per video
   - Export PDF
 
+
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/Ukitube 5.PNG" alt="Spy & Tools" width="100%">
+
 **Gunanya:** Tahu persis apa yang dilakukan kompetitor yang berhasil — kapan upload, pakai tag apa, durasi berapa, judul seperti apa.
 
 ---
@@ -169,6 +187,9 @@ YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **da
   - 0-29: Needs Work
 - Detail breakdown per layer
 - Ranking otomatis V1/V2/V3
+
+
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/Ukitube 6.PNG" alt="Simulator Thumbnail" width="100%">
 
 **Gunanya:** Tahu thumbnail mana yang paling menarik SEBELUM upload. Bukan tebakan — berdasarkan data visual real + benchmark YouTube.
 
@@ -211,6 +232,9 @@ Input: ide video + deskripsi thumbnail + kategori.
 
 #### Post Komunitas
 - 5 ide Community Tab (poll, Q&A, teaser, BTS, giveaway)
+
+
+<img src="https://raw.githubusercontent.com/habibiegl/ukitube-releases/master/1.PNG" alt="Generator AI SEO" width="100%">
 
 **Gunanya:** Generate metadata SEO yang bukan karangan — berdasarkan data video yang sudah terbukti berhasil.
 
