@@ -5,7 +5,7 @@
 
 ## Kenapa UkiTube?
 
-YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **data**, punya **strategi**, punya **tools**. UkiTube memberikan semua itu dalam satu aplikasi desktop — tanpa langganan bulanan, tanpa batasan.
+YouTube bukan lagi soal "upload dan berharap". Kompetitor yang sukses punya **data**, punya **strategi**, punya **tools**. UkiTube memberikan semua itu dalam satu aplikasi desktop.
 
 ---
 
